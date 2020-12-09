@@ -1,17 +1,24 @@
 ### Hello there, guys! 👋
 <p align="center">
-  💙 I'm a Tech Lover and also of groundbreaking entrepreneurship subjects related
+  💙 I'm a Tech Lover and of subjects related to groundbreaking entrepreneurship as well
   <br>
-  💻 I put into practice everything I learn from techs and tools
+  💻 I'm focused on goals and results!
   <br>
-  🎓 I'm finishing my graduation in Analysis and Systems Development from Fatec São José dos Campos - Prof. Jessen Vidal
+  🎓 I'm finishing my degree in Analysis and Systems Development at Fatec São José dos Campos - Prof. Jessen Vidal
   <br>
-  📫 How to contact me:
+  📫 How to reach me:
+  <br>
   <a href="mailto:nunes.eduardo256@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/nsedu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/eduns" target="_blank"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <br>
+  <a href="https://www.linkedin.com/in/eduns" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br>
+  <a href="https://github.com/eduns" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <br>
@@ -21,22 +28,19 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eduns&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br><br>
-### 💻 Some of Techs and Tools that I currently use:
-<p align="center">
-
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg"/> <strong> Python</strong>
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java</strong> 
-  
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript</strong>
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"/> <strong> TypeScript</strong> 
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"/> <strong> NodeJS</strong>
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong>
-  
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5</strong>
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3</strong>
- 
-  <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"/> <strong> MySQL</strong>
-</p>
+### 💻 Techs and Tools that I currently use:
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 <br><br>
 
 ### Here is a few nice projects I've made so far
