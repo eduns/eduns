@@ -1,6 +1,6 @@
 ### Hello there, guys! 👋
 <p align="center">
-  💙 I'm a Tech Lover and of subjects related to groundbreaking entrepreneurship as well
+  💙 I'm a Tech Lover and I'm into subjects related to groundbreaking entrepreneurship
   <br>
   💻 I'm focused on goals and results!
   <br>
