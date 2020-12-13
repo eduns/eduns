@@ -51,7 +51,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
 
-### Here is a few nice projects I've made so far
+### Here are some nice projects I've made so far
 <p width="100%" align="center">
   <p width="100%" align="center">
     <a align="right" href="https://github.com/eduns/happy" title="Happy">
