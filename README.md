@@ -1,6 +1,6 @@
 ### Hello there, guys! 👋
 <p align="center">
-  💙 I'm a Tech Lover and I'm into subjects related to groundbreaking entrepreneurship
+  💙 I'm a Tech Lover and I'm also into subjects related to groundbreaking entrepreneurship
   <br>
   💻 I'm focused on goals and results!
   <br>
@@ -40,7 +40,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 <br>
-![Golang](https://img.shields.io/badge/-Golang-86D5E3?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=go)
+<br>
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 <br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-1E4C68?style=for-the-badge&logo=mysql&logoColor=white)
