@@ -4,7 +4,7 @@
   <br>
   💻 I'm focused on goals and results!
   <br>
-  🎓 I'm finishing my degree in Analysis and Systems Development at Fatec São José dos Campos - Prof. Jessen Vidal
+  🎓 I'm graduated in Analysis and Systems Development at Fatec São José dos Campos - Prof. Jessen Vidal
   <br>
   📫 How to reach me:
   <br>
