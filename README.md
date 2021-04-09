@@ -4,11 +4,13 @@
   <br>
   💻 I'm focused on goals and results!
   <br>
-  🎓 I'm graduated in Analysis and Systems Development at Fatec São José dos Campos - Prof. Jessen Vidal
+  🎓 I have a degree in Analysis and Systems Development at Fatec São José dos Campos - Prof. Jessen Vidal
+  <br>
+  Currently working at @Climatempo
   <br>
   📫 How to reach me:
   <br>
-  <a href="mailto:nunes.eduardo256@gmail.com">
+  <a href="mailto:eduardo.santos@climatempo.com.br">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <br>
